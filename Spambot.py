@@ -33,7 +33,3 @@ match pantalla:
             pyautogui.press('enter')
     case _:
         print("Resolucion no encontrada")
-
-
-
-# (x=618, y=647)
